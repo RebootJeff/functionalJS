@@ -1,3 +1,11 @@
+##Setup
+
+For the following exercises, you need to load the Underscore library for your code to work. Here are a few options for getting the library:
+
+1. Go to [the Underscore website](http://underscorejs.org/) and then open your browser's console. Run your code in that console (the library is already loaded in that environment because it's loaded for Underscore's site).
+2. Use a REPL such as [JS Bin](http://jsbin.com) or [JS Fiddle](http://jsfiddle.net/). These REPLs provide a GUI for writing/running code. They also provide libraries like Underscore with just a few clicks in their menus.
+3. Create your own HTML file that loads Underscore and your JavaScript code via `<script>` tags. Open your HTML file in a browser (and open up the browser console to see any `console.log` output).
+
 ##Underscore exercises
 
 1. Use _.each to loop through an array and console.log() all the values. Now use it to console.log() the indices. How would this be different if you were looping through an object?
