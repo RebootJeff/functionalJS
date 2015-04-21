@@ -23,8 +23,7 @@ No textbook is required for this course. All materials are included in this gith
 
 ## Technical requirements
 
-Laptop, Chrome browser and a text editor. We recommend Sublime Text 3 for this course becuase its fast, light weight and you can run your JavaScript files in its console with Node.
-
+Laptop, Chrome browser and a text editor. We recommend Sublime Text 3 for this course becuase its fast, light-weight and you can run your JavaScript files in its console with Node. If you're looking for an alternative to Sublime, check out the Atom text editor.
 
 
 ##Resources
