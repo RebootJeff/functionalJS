@@ -1,12 +1,17 @@
+## Wait a minute!
+
+Before you attempt the following exercises, make sure you have completed the [main Underscore exercises](https://github.com/RebootJeff/jsFunctions/blob/master/underscore-loops/underscoreExercises.md). Also, be honest with yourself. Did you complete *and* understand the main exercises? If not, ask for help!
+
 ##Underscore exercises
 
 1. Use _.reduce to multiply all the values in an array.
 
 2. Use _.reduce to concatenate all strings in an array.
- 
- 		input: ['x','y','z']
- 		output: 'xyz'
 
+``` 
+input: ['x','y','z']
+output: 'xyz'
+```
 
 3. Write a function that takes an array of names and congratulates them. Make sure to use _.reduce as part of the function.
 		
