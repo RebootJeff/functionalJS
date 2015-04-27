@@ -1,16 +1,16 @@
 #[Function Scope Exercises](id:xcredit)
 
 
-#####It is your mission to go through the function.js file and change all the `'???'` in such a way that all the tests pass true. 
+#####It is your mission to go through the function.js file and change all the `'???'` in such a way that all the tests displayed in SpecRunner.html pass true. 
 
 ###Let's get started...
 
  
-Run the  file in a browser. This document shows one passed test and a series of failing tests.
+Run the SpecRunner.html file in a browser. This document shows one passed test and a series of failing tests.
 
 The **functions.js** folder holds all the failing tests that are being displayed in **SpecRunner.html**. You will be editing this file and using the **SpecRunner.html** to check your progress on making these tests pass. This is just a javascript file so you can use console.log to help debug and inspect these functions.
 
-A test block starts with an `it` function. The `it` function takes two arguments. The first one is a statement describing the rule addressed by the test. The second is a function that will either evaluate to true or false using the `expect` function. The expect statement (`expect(ACTUAL === 'inner').to.be.true;`) will evaluate if the statement between the parens `ACTUAL === 'inner'` is true. You can almost read it like plain English. The expect statement below "expects that the variable ACTUAL equals the value 'inner' to be true".
+A test block starts with an `it` function. The `it` function takes two arguments. The first one is a statement describing the rule addressed by the test. The second is a function that will either evaluate to true or false using the `expect` function. The expect statement (`expect(ACTUAL === 'inner').to.be.true;`) will pass if the statement between the parens `ACTUAL === 'inner'` is true. You can almost read it like plain English. The expect statement below "expects that the variable ACTUAL equals the value 'inner' to be true".
 
 ####Failing Test Example
 
