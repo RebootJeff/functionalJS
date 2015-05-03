@@ -17,7 +17,7 @@
     processPaymentOnce(); // does nothing on subsequent calls
   ```
   *Hint:* You need a closure.
-5. [Extra EXTRA Credit] Write a *better* version of `once` (like the one [seen here](http://underscorejs.org/#once)) that takes a function and returns a version of that function which can only be called once *with arguments*. Here is an example of how to use it:
+5. [Extra EXTRA Credit] Write a *better* version of `once` (like the one [seen here](http://underscorejs.org/#once)) that takes a function and returns a version of that function which can only be called once ...*with arguments*. Here is an example of how to use it:
 
   ```javascript
     var add = function(a, b) {
