@@ -10,7 +10,7 @@ For the following exercises, you need to load the Underscore library for your co
 
 1. Use _.each to loop through an array and console.log() all the values. Now use it to console.log() the indices. How would this be different if you were looping through an object?
 
-2. Write a function called checkValue that searches an array for a value. It takes an array and a value and returns `true` if the value exists in the array, otherwise it returns `false`.
+2. Write a function called checkValue that searches an array for a value. It takes an array and a value and returns `true` if the value exists in the array, otherwise it returns `false`. Use a `for`-loop for this exercise (don't use `_.each` just yet).
 
 		var helloArr = ['bonjour', 'hello', 'hola'];
 		
@@ -18,9 +18,9 @@ For the following exercises, you need to load the Underscore library for your co
 		  //checks if the val is in arr
 		}
 		
-3. Rewrite checkValue using _.each. Make sure that you have underscore.js included where you are running your code.
+3. Rewrite checkValue using `_.each`. Make sure that you have underscore.js included where you are running your code.
 
-4. Write a loop that pushes all the values in an object to an array.
+4. Write a loop that pushes all the values in an object to an array. Use `_.each` for this exercise (don't use `_.map` just yet).
 
 		input: {two: 2, four: 4, three: 3, twelve: 12}
 		output: [2, 4, 3, 12]
